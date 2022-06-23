@@ -13,4 +13,5 @@
 * 2021-04-21 (1400/02/01) -> range: saham (-3,+6) (link: 2422)
 * 2021-05-15 (1400/02/25) -> range: saham (-5,+5) (link: 2478)
 * 2021-07-11 (1400/04/20) -> tsetmc vase kharej keshvar baste shode (az 20 tir be in taraf DB naghese ..) (07-13 ok shod)
+* (022-06-22 (1401/04/01) -> File DB naghes sabt shode va push shod (ehtemalan dastrasi az kharej keshvar mahdude shode bud)
 

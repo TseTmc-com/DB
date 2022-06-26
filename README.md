@@ -15,3 +15,4 @@
 * 2021-07-11 (1400/04/20) -> tsetmc vase kharej keshvar baste shode (az 20 tir be in taraf DB naghese ..) (07-13 ok shod)
 * (022-06-22 (1401/04/01) -> File DB naghes sabt shode va push shod (ehtemalan dastrasi az kharej keshvar mahdude shode bud)
 * 2022-06-25 (1401/04/04) -> dastrasi az kharej ghate bud, az saat 11:30 data jam shode
+* 2022-06-26 .. data mojud nist 

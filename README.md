@@ -19,3 +19,4 @@
 * 2022-07-02 (1401/04/11) -> raft ruye ArvanCloud
 * 2022-09-24 (1401/07/02) -> data nadarim (bekhatere meli shodane net)
 * 2022-09-24 .. 2022-10-15 (1401/07/02 .. 1401/07/23) (bekhate meli shodane net data nadarim - app montaghel shod ruye cdn )
+* 2022-11-20 bekhate tahrim arvan damene az com be ir taghyyr peida kard va data ta 11:40 save shode

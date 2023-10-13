@@ -22,3 +22,5 @@
 * 2022-11-20 (1401/08/29) bekhate tahrim arvan damene az com be ir taghyyr peida kard va data ta 11:40 save shode
 * 2023-01-17 (1401/10/27) barghe datacenter arvan raft, ta saat 11:35 data jam shode
 * 2023-08-02 (1401/05/11) tatil bekhatere garma va bargh
+* 2023-10-11 (1402/07/11) dataye nesfe umade (dalil moshakhas nist)
+
